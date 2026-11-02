@@ -1,0 +1,125 @@
+[
+  {
+    "id": "minimalist-ocean",
+    "name": "Minimalist Ocean",
+    "category": "ocean",
+    "description": "Khung trắng ngọc trai tinh khiết điểm xuyết viền xanh biển",
+    "previewColor": "#f4fefe",
+    "accentColor": "#4299e1",
+    "recommendedStyle": {
+      "backgroundColor": "#f4fefe",
+      "bubblePattern": true,
+      "padding": 22,
+      "gap": 14,
+      "borderRadius": 12
+    }
+  },
+  {
+    "id": "bubble-dream",
+    "name": "Bubble Dream",
+    "category": "ocean",
+    "description": "Sắc xanh Aquamarine mát lành cùng bong bóng nước lấp lánh",
+    "previewColor": "#7FFFD4",
+    "accentColor": "#000080",
+    "recommendedStyle": {
+      "backgroundColor": "#d2fbee",
+      "bubblePattern": true,
+      "padding": 24,
+      "gap": 16,
+      "borderRadius": 18
+    }
+  },
+  {
+    "id": "film-strip",
+    "name": "Film Strip 35mm",
+    "category": "retro",
+    "description": "Cuộn phim âm bản cổ điển với lỗ đục rìa phim",
+    "previewColor": "#0f172a",
+    "accentColor": "#7FFFD4",
+    "recommendedStyle": {
+      "backgroundColor": "#0f172a",
+      "bubblePattern": false,
+      "padding": 28,
+      "gap": 14,
+      "borderRadius": 4
+    }
+  },
+  {
+    "id": "retro-windows",
+    "name": "Retro Windows OS",
+    "category": "retro",
+    "description": "Giao diện cửa sổ máy tính Y2K xanh biển hoài niệm",
+    "previewColor": "#dbeafe",
+    "accentColor": "#0000FF",
+    "recommendedStyle": {
+      "backgroundColor": "#e0f2fe",
+      "bubblePattern": false,
+      "padding": 24,
+      "gap": 14,
+      "borderRadius": 4
+    }
+  },
+  {
+    "id": "cute-pastel",
+    "name": "Cute Pastel",
+    "category": "cute",
+    "description": "Tông hồng phấn - xanh ngọc dịu dàng kèm nơ & tim nhỏ",
+    "previewColor": "#fce7f3",
+    "accentColor": "#3182ce",
+    "recommendedStyle": {
+      "backgroundColor": "#fdf2f8",
+      "bubblePattern": true,
+      "padding": 24,
+      "gap": 14,
+      "borderRadius": 20
+    }
+  },
+  {
+    "id": "deep-navy",
+    "name": "Navy Midnight",
+    "category": "ocean",
+    "description": "Xanh hải quân #000080 sang trọng tôn bật bức ảnh",
+    "previewColor": "#000080",
+    "accentColor": "#7FFFD4",
+    "recommendedStyle": {
+      "backgroundColor": "#000080",
+      "bubblePattern": true,
+      "padding": 22,
+      "gap": 14,
+      "borderRadius": 12
+    }
+  },
+  {
+    "id": "idol-ocean-event",
+    "name": "Idol Ocean Frame",
+    "category": "custom_png",
+    "description": "Khung sự kiện Idol Hàn Quốc / Trường học (từ public/frames/)",
+    "previewColor": "#e0f7fa",
+    "accentColor": "#000080",
+    "imageUrl": "/frames/idol-ocean-overlay.svg",
+    "recommendedStyle": {
+      "backgroundColor": "#ecfeff",
+      "bubblePattern": true,
+      "padding": 24,
+      "gap": 14,
+      "borderRadius": 14
+    }
+  },
+  {
+    "id": "school-memories",
+    "name": "Thanh Xuân Trường Học",
+    "category": "custom_png",
+    "description": "Khung kỷ niệm học đường (từ public/frames/)",
+    "previewColor": "#eff6ff",
+    "accentColor": "#3182ce",
+    "imageUrl": "/frames/school-memories-overlay.svg",
+    "recommendedStyle": {
+      "backgroundColor": "#eff6ff",
+      "bubblePattern": false,
+      "padding": 24,
+      "gap": 14,
+      "borderRadius": 12
+    }
+  }
+]
+

@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body {
+    font-family: 'Plus Jakarta Sans', 'Be Vietnam Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+    color: #000080;
+    background-color: #e8f7fa;
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+/* Custom sleek Ocean Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(235, 248, 255, 0.6);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(66, 153, 225, 0.45);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(49, 130, 206, 0.75);
+}
+

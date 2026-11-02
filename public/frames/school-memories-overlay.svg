@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 1100" fill="none">
+  <rect x="8" y="8" width="344" height="1084" rx="12" stroke="#000080" stroke-width="3"/>
+  <rect x="14" y="14" width="332" height="1072" rx="8" stroke="#4299e1" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <!-- Top School Stamp -->
+  <g transform="translate(245, 14)">
+    <rect x="0" y="0" width="94" height="24" rx="6" fill="#3182ce"/>
+    <text x="47" y="16" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-weight="700" font-size="10">CLASS OF 2026</text>
+  </g>
+  <!-- Bottom Paper Note -->
+  <g transform="translate(180, 1066)">
+    <rect x="-110" y="-16" width="220" height="28" rx="6" fill="#7FFFD4" stroke="#000080" stroke-width="2"/>
+    <text x="0" y="2" text-anchor="middle" fill="#000080" font-family="sans-serif" font-weight="800" font-size="12">YOUTH MEMORIES ✦ FOREVER</text>
+  </g>
+</svg>
+

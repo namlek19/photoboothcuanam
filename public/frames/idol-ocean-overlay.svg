@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 1100" fill="none">
+  <!-- Decorative top & bottom Idol Event Overlay -->
+  <rect x="6" y="6" width="348" height="1088" rx="18" stroke="#4299e1" stroke-width="3" stroke-dasharray="10 6" stroke-opacity="0.6"/>
+  <!-- Top cute badge -->
+  <g transform="translate(15, 10)">
+    <rect x="0" y="0" width="110" height="24" rx="12" fill="#7FFFD4" stroke="#000080" stroke-width="2"/>
+    <text x="55" y="16" text-anchor="middle" fill="#000080" font-family="sans-serif" font-weight="800" font-size="11">★ SPECIAL DAY ★</text>
+  </g>
+  <!-- Sparkles & Bubbles along edges -->
+  <circle cx="328" cy="28" r="14" fill="#7FFFD4" fill-opacity="0.55" stroke="#000080" stroke-width="2"/>
+  <circle cx="323" cy="23" r="4" fill="#ffffff"/>
+  <circle cx="24" cy="520" r="11" fill="#4299e1" fill-opacity="0.4" stroke="#000080" stroke-width="1.5"/>
+  <circle cx="336" cy="780" r="13" fill="#7FFFD4" fill-opacity="0.55" stroke="#000080" stroke-width="1.5"/>
+  <!-- Bottom Ribbon & Event Stamp -->
+  <g transform="translate(180, 1068)">
+    <rect x="-95" y="-16" width="190" height="28" rx="14" fill="#000080"/>
+    <text x="0" y="2" text-anchor="middle" fill="#7FFFD4" font-family="sans-serif" font-weight="700" font-size="12" letter-spacing="1.5">OCEAN IDOL BOOTH ♡</text>
+  </g>
+</svg>
+
