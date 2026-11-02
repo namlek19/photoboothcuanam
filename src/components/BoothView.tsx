@@ -55,7 +55,7 @@ export const BoothView: React.FC<BoothViewProps> = ({
     borderRadius: 12,
     presetFrameId: 'minimalist-ocean',
     customFrame: null,
-    footerText: 'OCEAN BOOTH • 2026',
+    footerText: 'Photobooth của Nam',
     showDate: true,
   });
 
@@ -543,7 +543,7 @@ export const BoothView: React.FC<BoothViewProps> = ({
         <div className="flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/75 backdrop-blur-md border border-[#7FFFD4] shadow-sm">
           <Sparkles className="w-4 h-4 text-[#3182ce]" />
           <span className="text-xs sm:text-sm font-extrabold text-[#000080]">
-            OCEAN PHOTOBOOTH
+            Photobooth của Nam
           </span>
           <span className="text-[11px] font-bold px-2 py-0.5 rounded-full bg-[#7FFFD4] text-[#000080]">
             {layoutMeta.name} ({filledPhotosCount}/{geom.totalSlots})

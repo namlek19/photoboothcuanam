@@ -21,7 +21,7 @@ export const MirrorView: React.FC<MirrorViewProps> = ({
       <header className="flex items-center gap-2.5 px-4 py-1.5 rounded-full bg-white/65 backdrop-blur-md border border-[#7FFFD4]/80 shadow-sm">
         <span className="w-2.5 h-2.5 rounded-full bg-[#7FFFD4] ring-2 ring-[#4299e1]/40 animate-pulse" />
         <h1 className="text-xs md:text-sm font-bold tracking-wide text-[#000080]">
-          GƯƠNG SOI TRỰC TUYẾN
+          Photobooth của Nam
         </h1>
         {fogEnabled && (
           <span className="text-[11px] font-medium px-2 py-0.5 rounded-full bg-[#7FFFD4]/50 text-[#000080]">
